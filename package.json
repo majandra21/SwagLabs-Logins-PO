@@ -1,0 +1,23 @@
+{
+  "name": "automation-po-swaglabs",
+  "version": "1.0.0",
+  "description": "\"Automatización de la página de Swaglabs utilizando Page Object en el inicio de sesión de los cuatro usuarios disponibles.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open" : "cypress open"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "login",
+    "PO",
+    "E2E"
+  ],
+  "author": "Maria Guevara Ruiz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.3"
+  }
+}

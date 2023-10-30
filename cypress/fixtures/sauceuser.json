@@ -1,0 +1,37 @@
+[
+    
+    {
+        "name" : "locked_out_user",
+        "username": "locked_out_user",
+        "password": "secret_sauce",
+        "expect" : "Epic sadface: Sorry, this user has been locked out."
+    },
+  
+    
+    {
+        "name" : "standard_user",
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "expect" : "Products"
+
+
+    },
+
+    {
+        "name" : "problem_user",
+        "username": "problem_user",
+        "password": "secret_sauce",
+        "expect" : "Products"
+    },
+
+    {
+        "name" : "performance_glitch_user",
+        "username": "performance_glitch_user",
+        "password": "secret_sauce",
+        "expect" : "Products"
+    }
+
+   
+  
+
+]
