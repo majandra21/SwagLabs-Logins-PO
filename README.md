@@ -1,2 +1,2 @@
 # SwagLabs-Logins-PO
-Automatización de la página Swaglabs utilizando PO en el login de los cuatro usuarios disponibles en Cypress.
+Automatización de la página Swaglabs utilizando POM en el login de los cuatro usuarios disponibles en Cypress.
